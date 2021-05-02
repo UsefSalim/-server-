@@ -20,7 +20,7 @@
     "joi": "^17.4.0",
     "jsonwebtoken": "^8.5.1",
     "mongoose": "^5.12.7",
-    "xelor": "^1.5.0"
+    "xelor": "^1.5.2"
   },
   "devDependencies": {
     "eslint": "^7.25.0",
